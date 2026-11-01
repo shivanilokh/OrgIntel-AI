@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Streamlit
+.streamlit/
+
+# Data - badi files github pe mat dalo
+data/raw/
+data/processed/
+data/ground_truth/
+
+# OS
+.DS_Store

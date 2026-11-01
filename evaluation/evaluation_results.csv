@@ -1,0 +1,2 @@
+total_actual_relationships,accepted_predictions,correct_predictions,incorrect_predictions,unresolved_relationships,precision,recall,f1_score,coverage
+112928,101113,96790,4323,11815,0.9572,0.8571,0.9044,0.8954

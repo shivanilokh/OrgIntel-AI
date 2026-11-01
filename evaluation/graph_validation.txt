@@ -1,0 +1,21 @@
+
+========== GRAPH VALIDATION ==========
+
+Total employees: 113428
+
+Accepted reporting lines: 1777
+
+Self reporting errors: 0
+
+Missing manager errors: 0
+
+Cross company errors: 0
+
+Duplicate employee assignments: 0
+
+Circular relationships detected: 0
+
+Graph contains cycles: False
+
+Graph is valid:
+True
