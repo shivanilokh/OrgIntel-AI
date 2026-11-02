@@ -175,6 +175,14 @@ streamlit run app.py
 
 ## Live Application
 
-**Hosted Application:** To be added after deployment.
+## Live Application
 
-**GitHub Repository:** Add your repository URL here.
+**Hosted Application:**  
+https://orgintel-ai-3jpbuqompvx4b4x6fncvna.streamlit.app/
+
+**GitHub Repository:**  
+https://github.com/shivanilokh/OrgIntel-AI
+
+The OrgIntel-AI platform is deployed using Streamlit Community Cloud.
+
+Users can explore organizational reporting structures, inferred manager relationships, confidence scores, and unresolved employee relationships through an interactive dashboard.
