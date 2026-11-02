@@ -23,15 +23,15 @@ to balance precision, recall and coverage.
 - F1 Score
 - Prediction Coverage
 
-### Graph Validation
+## Graph Validation
 
-The inferred organizational graph is checked for:
+Self Reporting Errors: 0
+Missing Manager Errors: 0
+Cross Company Errors: 0
+Duplicate Employee Assignments: 0
+Circular Relationships: 0
 
-- Self-reporting relationships
-- Missing managers
-- Cross-company reporting links
-- Duplicate employee assignments
-- Circular reporting relationships
+Graph Valid: True
 
 ### Ground Truth Evaluation
 
@@ -125,11 +125,13 @@ This approach prioritizes reliable reporting relationships over speculative conn
 
 ## Model Evaluation
 
-The predicted reporting relationships are compared against the synthetic ground-truth dataset.
+Precision: 0.9572
+Recall: 0.8571
+F1 Score: 0.9044
+Coverage: 0.8954
 
-Evaluation includes precision, recall, F1-score, prediction coverage, and threshold comparison.
-
-The final evaluation results will be recorded in the evaluation folder after full-dataset inference and validation.
+Incorrect Predictions: 4323
+Unresolved Relationships: 11815
 
 ## Key Design Decisions
 
