@@ -1,0 +1,501 @@
+company_id,company_name,industry,company_size,country
+COMP0001,"Choudhury, Bakshi and Maharaj",Banking,Small,UK
+COMP0002,"Salvi, Prasad and Raja",Technology,Medium,UK
+COMP0003,"Sodhi, Dixit and Pau",Manufacturing,Small,USA
+COMP0004,Ahluwalia Group,Insurance,Large,Singapore
+COMP0005,Shetty-Sundaram,Retail,Enterprise,USA
+COMP0006,Bail-Goel,Insurance,Medium,USA
+COMP0007,Oommen-Yohannan,Technology,Small,USA
+COMP0008,Walia-Varughese,Retail,Large,Australia
+COMP0009,"Karpe, Sant and Krishna",Manufacturing,Large,Singapore
+COMP0010,Dhaliwal Group,E-commerce,Medium,USA
+COMP0011,"Nagy, Sani and Chana",Telecommunications,Small,India
+COMP0012,"Borah, Dayal and Pradhan",Manufacturing,Large,Australia
+COMP0013,Kamdar-Narula,Consulting,Small,UK
+COMP0014,Boase-Gour,Telecommunications,Small,UK
+COMP0015,"Sawhney, Chacko and Mandal",Banking,Small,India
+COMP0016,"Kadakia, Ben and Setty",Education,Large,Singapore
+COMP0017,Kannan-Aggarwal,Retail,Small,India
+COMP0018,Shah-Mitter,Education,Large,UK
+COMP0019,"Rajagopalan, Ganguly and Morar",Insurance,Enterprise,USA
+COMP0020,Ranganathan-Dora,Insurance,Enterprise,UK
+COMP0021,Kapadia PLC,Healthcare,Large,Singapore
+COMP0022,Palla Inc,Retail,Medium,India
+COMP0023,"Badal, Bhat and Gala",Technology,Medium,Australia
+COMP0024,Menon PLC,Healthcare,Small,Australia
+COMP0025,"Ratti, Shere and Ramachandran",Consulting,Medium,India
+COMP0026,Sarraf-Nagarajan,E-commerce,Small,USA
+COMP0027,Dutt-Gill,Technology,Medium,India
+COMP0028,"Dugar, Suri and De",Retail,Medium,Singapore
+COMP0029,Shan LLC,Banking,Small,UK
+COMP0030,"Chopra, Divan and Bajaj",Banking,Medium,UK
+COMP0031,Varughese-Verma,Retail,Large,UK
+COMP0032,"Bhatnagar, Guha and Varty",E-commerce,Enterprise,India
+COMP0033,Kashyap Inc,Healthcare,Enterprise,India
+COMP0034,Banik LLC,Telecommunications,Large,India
+COMP0035,"Mitter, Kannan and Butala",E-commerce,Medium,USA
+COMP0036,"Grewal, Garde and Shetty",Education,Enterprise,UK
+COMP0037,Lad-Ramaswamy,Telecommunications,Large,Australia
+COMP0038,"Butala, Ahluwalia and Karnik",Technology,Large,India
+COMP0039,"Venkatesh, Karan and Singh",Consulting,Enterprise,India
+COMP0040,Kibe Ltd,Insurance,Small,India
+COMP0041,Samra LLC,E-commerce,Enterprise,Australia
+COMP0042,Kota-Edwin,Banking,Medium,USA
+COMP0043,Misra Group,E-commerce,Large,USA
+COMP0044,Muni-Sidhu,Retail,Enterprise,Australia
+COMP0045,Dar Ltd,Retail,Small,USA
+COMP0046,Seshadri Inc,Insurance,Enterprise,India
+COMP0047,"Tara, Bansal and Parmer",Consulting,Enterprise,Singapore
+COMP0048,Natt LLC,Technology,Large,Singapore
+COMP0049,"Arya, Mahajan and Kumar",Banking,Small,Singapore
+COMP0050,"Acharya, Chadha and Gulati",Education,Medium,USA
+COMP0051,"Palan, Taneja and Hayre",Telecommunications,Enterprise,Singapore
+COMP0052,Randhawa-Bail,Telecommunications,Small,Australia
+COMP0053,Kant-Sama,Consulting,Enterprise,UK
+COMP0054,Dayal-Gala,Manufacturing,Enterprise,Australia
+COMP0055,Brar LLC,Telecommunications,Small,India
+COMP0056,"Amble, Kar and Rau",Banking,Large,USA
+COMP0057,"Saxena, Padmanabhan and Banik",Telecommunications,Enterprise,UK
+COMP0058,Yohannan-Sarin,Education,Large,UK
+COMP0059,"Bhavsar, Saini and Rao",Telecommunications,Small,Singapore
+COMP0060,"Zachariah, Chand and Kota",Retail,Enterprise,Singapore
+COMP0061,Kadakia-Kalla,Consulting,Enterprise,USA
+COMP0062,"Singhal, Nadkarni and Agrawal",Technology,Medium,Singapore
+COMP0063,"Guha, Virk and Guha",Education,Enterprise,India
+COMP0064,"Badami, Mitter and Babu",Insurance,Medium,USA
+COMP0065,Lad LLC,Consulting,Enterprise,USA
+COMP0066,Sen Ltd,Telecommunications,Enterprise,India
+COMP0067,Batta-Grover,Retail,Small,Singapore
+COMP0068,Shetty-Wali,Healthcare,Medium,Singapore
+COMP0069,Arya-Maharaj,Manufacturing,Large,India
+COMP0070,Aurora-Dey,Retail,Large,Australia
+COMP0071,Bhatnagar LLC,E-commerce,Large,Australia
+COMP0072,Chaudhry-Pingle,Consulting,Medium,UK
+COMP0073,Tara PLC,E-commerce,Large,Australia
+COMP0074,"Sandhu, Nadkarni and Halder",Education,Enterprise,Singapore
+COMP0075,Chandra and Sons,Retail,Medium,UK
+COMP0076,Khalsa-Mann,Manufacturing,Medium,USA
+COMP0077,"Badami, Naik and Deshpande",Consulting,Large,UK
+COMP0078,Sule Inc,Manufacturing,Large,UK
+COMP0079,Wable Group,Retail,Enterprise,UK
+COMP0080,Mane-Nagy,Technology,Enterprise,UK
+COMP0081,"Ray, Ganesh and Handa",Healthcare,Small,UK
+COMP0082,"Bhavsar, Walia and Purohit",Education,Large,UK
+COMP0083,"De, De and Bali",Consulting,Medium,USA
+COMP0084,Brar-Tata,Healthcare,Medium,UK
+COMP0085,"Kata, Suresh and Chopra",Retail,Small,Australia
+COMP0086,Nair-Sangha,Manufacturing,Large,Australia
+COMP0087,Raman-Gara,Insurance,Large,Australia
+COMP0088,Johal-Tata,Insurance,Medium,UK
+COMP0089,Pingle Inc,Retail,Small,UK
+COMP0090,"Swamy, Virk and Mannan",Technology,Small,Australia
+COMP0091,Om-Ravel,Insurance,Medium,Australia
+COMP0092,Sant Ltd,Banking,Large,USA
+COMP0093,Dutt-Seth,Healthcare,Medium,Australia
+COMP0094,Mohan-Swaminathan,Telecommunications,Large,UK
+COMP0095,Bhatti Group,Manufacturing,Enterprise,Singapore
+COMP0096,"Sridhar, Loyal and Dey",Insurance,Small,USA
+COMP0097,"Varma, Solanki and Biswas",Manufacturing,Medium,India
+COMP0098,Dhar Inc,Insurance,Medium,India
+COMP0099,Vala-Ramesh,Consulting,Enterprise,Singapore
+COMP0100,Lall-Bhalla,Healthcare,Enterprise,UK
+COMP0101,Dora and Sons,Education,Small,UK
+COMP0102,Kale PLC,E-commerce,Enterprise,India
+COMP0103,Dayal-Kara,Telecommunications,Enterprise,India
+COMP0104,D’Alia Inc,Insurance,Medium,Singapore
+COMP0105,"Sami, Majumdar and Lall",Banking,Enterprise,India
+COMP0106,Bera and Sons,Retail,Medium,Australia
+COMP0107,Lall Ltd,Healthcare,Medium,India
+COMP0108,Venkatesh Group,Telecommunications,Medium,Australia
+COMP0109,"Mitra, Chauhan and Raghavan",Telecommunications,Small,India
+COMP0110,Dash Ltd,Telecommunications,Large,USA
+COMP0111,Gokhale-Kanda,Technology,Enterprise,USA
+COMP0112,Sekhon-Nadkarni,Manufacturing,Enterprise,UK
+COMP0113,"Shankar, Bava and Sarraf",Manufacturing,Medium,UK
+COMP0114,"Chanda, Parekh and Lata",Healthcare,Small,India
+COMP0115,"Gala, Sem and Ranganathan",Education,Enterprise,India
+COMP0116,Pal Ltd,Healthcare,Small,Australia
+COMP0117,Kala-Dua,Healthcare,Medium,Singapore
+COMP0118,"Venkatesh, Dhawan and Gaba",Manufacturing,Large,Singapore
+COMP0119,"Nagi, Srivastava and Shah",Technology,Enterprise,UK
+COMP0120,Chakraborty and Sons,Technology,Enterprise,Singapore
+COMP0121,"Anne, Lanka and Pillay",Education,Small,UK
+COMP0122,Sura-Rai,Consulting,Small,India
+COMP0123,Dara-Barad,Banking,Large,Singapore
+COMP0124,Kade-Babu,Manufacturing,Medium,Singapore
+COMP0125,Manda-Ghosh,Telecommunications,Enterprise,UK
+COMP0126,"Borde, Wagle and Yohannan",Telecommunications,Medium,UK
+COMP0127,Barad Group,Banking,Small,India
+COMP0128,"Mukhopadhyay, Thaman and Parekh",Healthcare,Medium,UK
+COMP0129,Edwin-Mander,Retail,Medium,Australia
+COMP0130,Chaudhry-Deshmukh,Education,Large,Australia
+COMP0131,Shah and Sons,Manufacturing,Medium,USA
+COMP0132,Tailor PLC,Telecommunications,Large,UK
+COMP0133,Bhargava-Mitter,Insurance,Enterprise,UK
+COMP0134,"Lad, Kant and Rau",Consulting,Large,UK
+COMP0135,"Parikh, Bakshi and Lall",Education,Large,USA
+COMP0136,Chaudhari Inc,Education,Medium,Australia
+COMP0137,Baria LLC,Telecommunications,Small,UK
+COMP0138,"Khanna, Loke and Sampath",Retail,Medium,USA
+COMP0139,Chaudhuri Inc,Insurance,Small,UK
+COMP0140,Hayre LLC,Retail,Medium,Australia
+COMP0141,Panchal-Krishna,Banking,Small,India
+COMP0142,Ray-Bhakta,E-commerce,Enterprise,Singapore
+COMP0143,Sur LLC,Consulting,Large,UK
+COMP0144,Borra-Sarkar,Telecommunications,Enterprise,Singapore
+COMP0145,Mital and Sons,Healthcare,Medium,USA
+COMP0146,Jaggi-Sastry,Insurance,Small,Singapore
+COMP0147,"Swaminathan, Subramaniam and Vora",Manufacturing,Enterprise,India
+COMP0148,Roy LLC,Manufacturing,Medium,UK
+COMP0149,"Barad, Sarin and Subramanian",Retail,Enterprise,India
+COMP0150,"Narasimhan, Memon and Ahuja",E-commerce,Enterprise,UK
+COMP0151,"Sur, Raghavan and Dara",Manufacturing,Small,India
+COMP0152,Dave-Roy,Banking,Small,Singapore
+COMP0153,Walla-Choudhury,Retail,Medium,USA
+COMP0154,Dhawan-Trivedi,Technology,Medium,UK
+COMP0155,"Baria, Dewan and Oak",Telecommunications,Small,UK
+COMP0156,"Taneja, Sabharwal and Malhotra",Manufacturing,Enterprise,Australia
+COMP0157,"Chaudhary, Rout and Mutti",Retail,Large,UK
+COMP0158,Palla LLC,Banking,Enterprise,Australia
+COMP0159,"Anand, Bains and Lala",Healthcare,Enterprise,USA
+COMP0160,"Patla, Gokhale and Borah",E-commerce,Small,USA
+COMP0161,"Randhawa, Radhakrishnan and Atwal",Healthcare,Medium,UK
+COMP0162,Chakraborty-Kumer,Healthcare,Medium,India
+COMP0163,Kapadia LLC,Banking,Small,Australia
+COMP0164,Vyas-Doshi,Manufacturing,Large,Singapore
+COMP0165,"Shanker, Deshmukh and Nath",Education,Small,USA
+COMP0166,Kala-Agarwal,E-commerce,Large,USA
+COMP0167,Sethi-Sem,Manufacturing,Small,USA
+COMP0168,"Khurana, Taneja and Nazareth",Technology,Enterprise,Singapore
+COMP0169,Mistry-Loke,Insurance,Large,India
+COMP0170,"Pant, Pai and Sarna",Consulting,Small,India
+COMP0171,Verma-Kalita,Consulting,Large,Singapore
+COMP0172,Goel-Lata,E-commerce,Medium,Singapore
+COMP0173,Gera-Shankar,Education,Large,Singapore
+COMP0174,"Varughese, Loyal and Golla",Technology,Large,Singapore
+COMP0175,Kulkarni PLC,Retail,Enterprise,Singapore
+COMP0176,Bala-Thakkar,E-commerce,Small,USA
+COMP0177,Issac Ltd,Technology,Medium,India
+COMP0178,Mody-Lalla,Technology,Medium,India
+COMP0179,"Seshadri, Ranganathan and Arora",Banking,Large,India
+COMP0180,Gill-Master,Banking,Large,India
+COMP0181,"Sood, Nagi and Sharma",E-commerce,Enterprise,Australia
+COMP0182,Samra-Garg,Banking,Small,Singapore
+COMP0183,Purohit-Rana,Healthcare,Small,India
+COMP0184,"Bhatt, Anand and Bava",Insurance,Large,USA
+COMP0185,Soni and Sons,Insurance,Medium,India
+COMP0186,Kuruvilla Group,Education,Small,Australia
+COMP0187,"Patla, Chopra and Bhat",Consulting,Medium,Singapore
+COMP0188,"Chhabra, Jain and Narain",Banking,Enterprise,Singapore
+COMP0189,Chanda and Sons,Healthcare,Enterprise,Singapore
+COMP0190,Baral-Bajaj,Retail,Medium,India
+COMP0191,Korpal-Divan,Education,Medium,UK
+COMP0192,Som Group,Banking,Medium,USA
+COMP0193,"Desai, Sachdeva and Batra",Insurance,Enterprise,USA
+COMP0194,Wason-Bal,Consulting,Small,India
+COMP0195,"Kala, Sha and Goda",Telecommunications,Large,Singapore
+COMP0196,"Zachariah, Goswami and Baria",Manufacturing,Small,Singapore
+COMP0197,Ramanathan Ltd,Education,Large,USA
+COMP0198,"Apte, Chhabra and Warrior",Telecommunications,Large,UK
+COMP0199,Gala-Kalita,Manufacturing,Large,USA
+COMP0200,Mane PLC,Banking,Medium,India
+COMP0201,Dar-Devan,Healthcare,Large,India
+COMP0202,Choudhury Group,Education,Small,UK
+COMP0203,Agarwal-Desai,Manufacturing,Enterprise,UK
+COMP0204,"Mall, Zacharia and Raju",Telecommunications,Large,Singapore
+COMP0205,Sidhu LLC,Technology,Small,India
+COMP0206,Sankaran-Lala,Consulting,Small,UK
+COMP0207,Sankaran and Sons,Healthcare,Large,USA
+COMP0208,Borra-Malhotra,Insurance,Medium,India
+COMP0209,Suri-Hans,Telecommunications,Large,USA
+COMP0210,"Pillay, Mallick and Menon",Education,Medium,USA
+COMP0211,Varghese Ltd,Education,Large,Singapore
+COMP0212,"Vyas, Edwin and Chadha",Banking,Enterprise,UK
+COMP0213,"Chandran, Guha and Sarraf",Consulting,Enterprise,UK
+COMP0214,Behl and Sons,Telecommunications,Large,USA
+COMP0215,Kant PLC,Consulting,Small,Australia
+COMP0216,"Ravi, Sodhi and Bala",Healthcare,Medium,Australia
+COMP0217,Oak-Pant,Technology,Small,India
+COMP0218,Nayak LLC,Manufacturing,Large,India
+COMP0219,Dhingra PLC,Education,Medium,Singapore
+COMP0220,Ranganathan Ltd,Banking,Large,UK
+COMP0221,Dugal Inc,Banking,Enterprise,Australia
+COMP0222,Pradhan-Vora,Healthcare,Large,Australia
+COMP0223,Chad Inc,Consulting,Large,UK
+COMP0224,"Dugar, Hegde and Arya",Telecommunications,Large,Australia
+COMP0225,Dhillon-Varghese,Manufacturing,Enterprise,Singapore
+COMP0226,Muni-Toor,Healthcare,Small,Australia
+COMP0227,Sangha-Chauhan,Consulting,Medium,USA
+COMP0228,Bhatti PLC,E-commerce,Large,USA
+COMP0229,Deo Group,Banking,Medium,India
+COMP0230,Kakar-Ahluwalia,Consulting,Small,Australia
+COMP0231,"Sawhney, Balakrishnan and Magar",Telecommunications,Medium,India
+COMP0232,Narayanan LLC,Education,Small,Australia
+COMP0233,Loyal-Varughese,Retail,Large,UK
+COMP0234,"Sankaran, Bhavsar and Thakkar",Banking,Small,India
+COMP0235,Dayal PLC,Education,Small,Australia
+COMP0236,Dhawan Inc,Telecommunications,Large,UK
+COMP0237,Gandhi-Apte,Healthcare,Large,UK
+COMP0238,"Swamy, Karan and Sekhon",Manufacturing,Large,Singapore
+COMP0239,Mandal-Ghosh,Education,Large,Singapore
+COMP0240,"Trivedi, Sanghvi and Chopra",Banking,Large,UK
+COMP0241,"Tella, Ghose and Jhaveri",E-commerce,Medium,India
+COMP0242,"Raj, Nagi and Thakur",E-commerce,Small,Australia
+COMP0243,"Baria, Chakraborty and Mammen",Insurance,Large,USA
+COMP0244,Tak and Sons,Telecommunications,Small,UK
+COMP0245,Mane-Kari,Retail,Enterprise,India
+COMP0246,"Sami, Parikh and Dyal",Consulting,Enterprise,Australia
+COMP0247,"Bajwa, Nair and Lall",Healthcare,Medium,India
+COMP0248,"Tara, Batra and Dyal",Education,Medium,Australia
+COMP0249,Swamy-Singh,Consulting,Enterprise,USA
+COMP0250,Chand-Nigam,Healthcare,Enterprise,UK
+COMP0251,"Varughese, Bajwa and Chana",Telecommunications,Medium,India
+COMP0252,"Edwin, Pandya and Ramesh",Telecommunications,Small,India
+COMP0253,Tara PLC,E-commerce,Enterprise,UK
+COMP0254,Mistry-Dave,Banking,Enterprise,UK
+COMP0255,Gandhi-Pai,E-commerce,Enterprise,India
+COMP0256,"Sarkar, Jhaveri and Lala",Retail,Small,UK
+COMP0257,Goda Inc,Technology,Medium,India
+COMP0258,"Mahajan, Khurana and Kade",Insurance,Medium,Australia
+COMP0259,Gara and Sons,Education,Medium,USA
+COMP0260,"Jani, Ahuja and Gola",Insurance,Small,Australia
+COMP0261,Uppal-Sarraf,Healthcare,Medium,India
+COMP0262,"Shah, Bhatnagar and Bala",Banking,Enterprise,USA
+COMP0263,Misra LLC,Insurance,Medium,Singapore
+COMP0264,"Kapoor, Krishnan and Mohanty",E-commerce,Small,Singapore
+COMP0265,"Wali, Mutti and Kapoor",Telecommunications,Medium,Singapore
+COMP0266,Dixit Inc,Healthcare,Small,India
+COMP0267,Sankar Inc,E-commerce,Small,India
+COMP0268,Goyal PLC,Insurance,Small,UK
+COMP0269,Solanki LLC,Retail,Medium,Singapore
+COMP0270,Nath-Sarin,Education,Enterprise,USA
+COMP0271,Bora-Puri,E-commerce,Enterprise,India
+COMP0272,Sheth-Hayer,Retail,Enterprise,USA
+COMP0273,"Mandal, Viswanathan and Sen",Healthcare,Large,Australia
+COMP0274,"Bobal, Agarwal and Sankar",Retail,Large,USA
+COMP0275,Vyas-Ratta,Banking,Large,USA
+COMP0276,"Salvi, Nigam and Sarin",Insurance,Medium,Singapore
+COMP0277,Chada Inc,E-commerce,Enterprise,India
+COMP0278,"Anand, Bahri and Murty",Retail,Large,Australia
+COMP0279,"Hans, Karnik and Chatterjee",Education,Small,Australia
+COMP0280,Sengupta-Dube,E-commerce,Large,Australia
+COMP0281,"Nadig, Hora and Hegde",Insurance,Medium,India
+COMP0282,Sha-Bansal,Education,Large,Singapore
+COMP0283,Sarin Ltd,Telecommunications,Large,Singapore
+COMP0284,"Mahal, Bhakta and Karpe",Telecommunications,Medium,Australia
+COMP0285,Dutta-Rao,Healthcare,Large,UK
+COMP0286,"Warrior, Panchal and Malhotra",E-commerce,Medium,India
+COMP0287,Sane-Kala,E-commerce,Large,UK
+COMP0288,Bansal-Mander,Banking,Small,Australia
+COMP0289,Oommen-Dass,Insurance,Large,USA
+COMP0290,Sharaf PLC,Consulting,Medium,India
+COMP0291,Mishra-Kunda,Telecommunications,Large,India
+COMP0292,Loyal-Chandra,Retail,Small,India
+COMP0293,"Chand, Shroff and Modi",Education,Large,Singapore
+COMP0294,"Vora, Rana and Merchant",Technology,Small,Australia
+COMP0295,Choudhry Inc,Insurance,Large,USA
+COMP0296,Chahal Ltd,Manufacturing,Enterprise,Singapore
+COMP0297,"Sarin, Kashyap and Hora",Retail,Medium,Singapore
+COMP0298,"Ratti, Hegde and Bera",Banking,Large,India
+COMP0299,Kothari PLC,Banking,Large,India
+COMP0300,Vohra-Krishnan,Manufacturing,Small,India
+COMP0301,Grover-Sen,Retail,Medium,UK
+COMP0302,Peri-Sem,Healthcare,Large,India
+COMP0303,Kibe-Sane,E-commerce,Medium,UK
+COMP0304,"Srinivasan, Balan and Tara",Retail,Large,India
+COMP0305,Chaudhary-Saini,Manufacturing,Medium,Australia
+COMP0306,"Nori, Walla and Sharma",Technology,Medium,Singapore
+COMP0307,"Gupta, Choudhary and Boase",Consulting,Large,UK
+COMP0308,"Madan, Buch and Deshmukh",Healthcare,Enterprise,Australia
+COMP0309,"Joshi, Naidu and Menon",Insurance,Small,Singapore
+COMP0310,"Rout, Narang and Ranganathan",Banking,Enterprise,Australia
+COMP0311,"Dayal, Bera and Swamy",Education,Medium,USA
+COMP0312,Krishnan Inc,Education,Small,Singapore
+COMP0313,"Ray, Seth and Kannan",Retail,Medium,UK
+COMP0314,Lal and Sons,Telecommunications,Large,UK
+COMP0315,Dube Group,Insurance,Small,Singapore
+COMP0316,Aggarwal-Saha,Telecommunications,Medium,UK
+COMP0317,Nagar Group,Education,Enterprise,Singapore
+COMP0318,"Bhagat, Lal and Dhar",Manufacturing,Large,India
+COMP0319,"Sandhu, Rastogi and Hans",Manufacturing,Large,UK
+COMP0320,"Bhat, Goda and Bhardwaj",Healthcare,Large,UK
+COMP0321,Balan Inc,Manufacturing,Small,UK
+COMP0322,"Sen, Gala and Rattan",Education,Enterprise,USA
+COMP0323,Parsa-Keer,E-commerce,Medium,Australia
+COMP0324,Minhas Group,Insurance,Medium,USA
+COMP0325,Chopra-Manda,Consulting,Medium,India
+COMP0326,Nagi-Sachdev,Technology,Large,Singapore
+COMP0327,"Tara, Bhalla and Chand",Technology,Large,Singapore
+COMP0328,"Dada, Gill and Anand",E-commerce,Large,Singapore
+COMP0329,"Chowdhury, Bhasin and Brar",Banking,Enterprise,India
+COMP0330,Narain-Verma,E-commerce,Enterprise,USA
+COMP0331,"Chander, Sarna and Solanki",Education,Small,UK
+COMP0332,Koshy-Palla,Education,Small,India
+COMP0333,"Thakkar, Bansal and Chaudry",Manufacturing,Small,India
+COMP0334,Batta Inc,E-commerce,Large,USA
+COMP0335,Nazareth-Morar,Healthcare,Large,UK
+COMP0336,Gulati LLC,Manufacturing,Medium,India
+COMP0337,Kamdar Ltd,Banking,Medium,Singapore
+COMP0338,Sachdeva-Seshadri,E-commerce,Large,Australia
+COMP0339,"Bir, Chada and Karnik",Insurance,Large,USA
+COMP0340,"Mangal, Barad and Dube",Manufacturing,Enterprise,Australia
+COMP0341,Ramesh LLC,Education,Enterprise,UK
+COMP0342,Mani-Balasubramanian,Banking,Enterprise,Singapore
+COMP0343,"Goel, Bhatia and Bhat",Retail,Small,USA
+COMP0344,Badami-Cherian,Insurance,Small,Australia
+COMP0345,Singhal-Nayar,Consulting,Enterprise,Australia
+COMP0346,Narula-Rai,Technology,Small,USA
+COMP0347,"Kale, Chandran and Purohit",Education,Enterprise,USA
+COMP0348,Kakar-Khanna,Education,Medium,India
+COMP0349,Toor Ltd,Healthcare,Large,Australia
+COMP0350,"Dugar, Seshadri and Gara",E-commerce,Large,Singapore
+COMP0351,"Dass, Malhotra and Joshi",E-commerce,Medium,India
+COMP0352,"Kadakia, Gaba and Lalla",Banking,Small,Singapore
+COMP0353,Yogi-Manne,Consulting,Medium,Australia
+COMP0354,"Chaudhry, Sarin and Sem",Telecommunications,Medium,Australia
+COMP0355,Majumdar-Sen,Retail,Large,India
+COMP0356,Varghese PLC,Consulting,Large,Australia
+COMP0357,Gade-Kara,E-commerce,Large,UK
+COMP0358,Seth-Vala,Healthcare,Enterprise,UK
+COMP0359,Kala LLC,Insurance,Small,UK
+COMP0360,Loke-Bhavsar,Healthcare,Small,Australia
+COMP0361,Loke-Sachdev,Technology,Enterprise,USA
+COMP0362,Gill Group,Retail,Medium,USA
+COMP0363,Modi-Narayanan,Healthcare,Small,USA
+COMP0364,Dutta-Mammen,Technology,Enterprise,Singapore
+COMP0365,Datta-Oommen,Healthcare,Enterprise,Singapore
+COMP0366,Chatterjee-Talwar,Technology,Medium,USA
+COMP0367,Wable-Prakash,Manufacturing,Large,USA
+COMP0368,"Golla, Deshpande and Raman",Healthcare,Medium,UK
+COMP0369,Dutt Ltd,Healthcare,Large,UK
+COMP0370,"Tank, Lall and Sanghvi",Insurance,Large,USA
+COMP0371,"Vala, Kohli and Chaudhari",Banking,Large,Australia
+COMP0372,Jain-Narayan,Consulting,Large,USA
+COMP0373,Naik LLC,Insurance,Large,Australia
+COMP0374,"Mukhopadhyay, Dhawan and Barman",E-commerce,Small,Singapore
+COMP0375,Mohanty Ltd,E-commerce,Medium,UK
+COMP0376,Kapur-Mutti,Healthcare,Enterprise,USA
+COMP0377,Suri-Gokhale,E-commerce,Enterprise,India
+COMP0378,"Samra, Behl and Viswanathan",Insurance,Enterprise,USA
+COMP0379,Kapoor-Bakshi,Manufacturing,Small,India
+COMP0380,"Setty, Anand and Bose",Insurance,Medium,UK
+COMP0381,Borde and Sons,Consulting,Enterprise,Singapore
+COMP0382,Raman-Sandhu,Insurance,Small,UK
+COMP0383,Karpe Group,Healthcare,Small,India
+COMP0384,Bhakta PLC,E-commerce,Large,India
+COMP0385,D’Alia Inc,Technology,Enterprise,Singapore
+COMP0386,Krishna Group,Technology,Enterprise,Australia
+COMP0387,Konda-Kanda,Education,Medium,UK
+COMP0388,"Varghese, Puri and Konda",Manufacturing,Enterprise,USA
+COMP0389,"Dey, Dhillon and Deshmukh",Healthcare,Small,Australia
+COMP0390,Natarajan and Sons,Manufacturing,Large,USA
+COMP0391,Shah PLC,Insurance,Small,India
+COMP0392,"Sarin, Bath and Parsa",E-commerce,Medium,USA
+COMP0393,Kala-Ahuja,Banking,Large,Australia
+COMP0394,Bassi-Kibe,Healthcare,Enterprise,Singapore
+COMP0395,Choudhury LLC,Education,Large,India
+COMP0396,Brahmbhatt-Devan,Insurance,Small,Australia
+COMP0397,"Yohannan, Bhargava and Sandal",Banking,Large,UK
+COMP0398,Raman and Sons,Telecommunications,Small,USA
+COMP0399,Oza PLC,Technology,Small,Australia
+COMP0400,Bath-Suri,E-commerce,Large,Singapore
+COMP0401,"Banik, Gade and Dara",Technology,Large,India
+COMP0402,"Dass, Narang and Munshi",Retail,Enterprise,UK
+COMP0403,Agarwal Group,Consulting,Enterprise,USA
+COMP0404,Kara Group,Consulting,Small,India
+COMP0405,Mann-Batta,Retail,Enterprise,UK
+COMP0406,Dhawan-Gupta,Technology,Enterprise,India
+COMP0407,"Nanda, Gour and Bail",Banking,Enterprise,USA
+COMP0408,Bassi Group,Education,Small,India
+COMP0409,Walia-Thaker,Manufacturing,Medium,Singapore
+COMP0410,"Konda, Dayal and Bhatia",Technology,Small,UK
+COMP0411,Dutta LLC,Manufacturing,Large,UK
+COMP0412,Arya-Khurana,Banking,Medium,UK
+COMP0413,"Chaudhari, Kala and Dhillon",Technology,Enterprise,Australia
+COMP0414,Jain-Chhabra,Consulting,Medium,Singapore
+COMP0415,Tripathi Group,Healthcare,Large,Australia
+COMP0416,Chacko Inc,E-commerce,Small,Singapore
+COMP0417,Puri PLC,Consulting,Enterprise,USA
+COMP0418,Gour Inc,Retail,Medium,USA
+COMP0419,"Patil, Chakrabarti and Palan",Banking,Medium,Australia
+COMP0420,Chowdhury-Jain,E-commerce,Large,India
+COMP0421,Borde Group,Banking,Medium,UK
+COMP0422,Pradhan Ltd,Consulting,Medium,USA
+COMP0423,Bawa PLC,Manufacturing,Large,USA
+COMP0424,Boase PLC,Banking,Medium,India
+COMP0425,Joshi LLC,E-commerce,Medium,India
+COMP0426,Devan Inc,E-commerce,Large,India
+COMP0427,"Prabhu, Kanda and Parmar",E-commerce,Enterprise,Australia
+COMP0428,Dugar-Bajwa,E-commerce,Enterprise,Australia
+COMP0429,Kapadia-Ramachandran,E-commerce,Small,Australia
+COMP0430,Dhar-Prasad,Banking,Enterprise,Australia
+COMP0431,Madan-Mallick,Insurance,Small,Singapore
+COMP0432,Bhakta Inc,Retail,Large,USA
+COMP0433,"Prashad, Sarkar and Ramesh",Telecommunications,Medium,Singapore
+COMP0434,Bhardwaj-Mutti,Insurance,Large,UK
+COMP0435,Batra PLC,Education,Enterprise,USA
+COMP0436,Ganesh-Mani,Insurance,Medium,India
+COMP0437,Ganguly LLC,Telecommunications,Small,India
+COMP0438,Gade-Sachdeva,Insurance,Medium,Australia
+COMP0439,Kaur LLC,Education,Enterprise,Singapore
+COMP0440,"Oza, Din and Boase",Retail,Small,USA
+COMP0441,Sharaf-Vig,Telecommunications,Small,UK
+COMP0442,"Bali, Halder and Kothari",E-commerce,Medium,USA
+COMP0443,"Bhandari, Narayan and Kaul",Telecommunications,Large,Australia
+COMP0444,"Dugal, Chaudhari and Khare",Healthcare,Medium,UK
+COMP0445,Din Inc,E-commerce,Small,India
+COMP0446,"Keer, Raja and Sood",Retail,Large,USA
+COMP0447,Vig-Hora,Healthcare,Large,UK
+COMP0448,"Loyal, Shroff and Subramanian",Insurance,Small,USA
+COMP0449,"Jain, Atwal and Mani",Consulting,Large,USA
+COMP0450,"Kaul, Bir and Salvi",Telecommunications,Small,Australia
+COMP0451,"Chatterjee, Chawla and Chanda",Insurance,Small,Singapore
+COMP0452,Wadhwa-Balay,Telecommunications,Large,Australia
+COMP0453,Rege Inc,Banking,Large,USA
+COMP0454,"Dewan, Chaudry and Soman",Insurance,Large,India
+COMP0455,Ranganathan LLC,Healthcare,Enterprise,USA
+COMP0456,Chowdhury Ltd,E-commerce,Small,India
+COMP0457,"Gulati, Memon and Mitter",Banking,Small,Singapore
+COMP0458,Karpe-Kannan,Healthcare,Large,USA
+COMP0459,Balasubramanian-Mody,Telecommunications,Medium,Singapore
+COMP0460,"Saini, Bhardwaj and Jayaraman",Retail,Small,UK
+COMP0461,Rama Group,Manufacturing,Small,UK
+COMP0462,Magar-Lalla,Technology,Enterprise,Australia
+COMP0463,"Kata, Dhingra and Sekhon",Consulting,Large,UK
+COMP0464,Pillai-Pau,Manufacturing,Medium,Australia
+COMP0465,"Tella, Venkatesh and Salvi",E-commerce,Small,USA
+COMP0466,"Rastogi, Chada and Atwal",Healthcare,Large,Singapore
+COMP0467,Andra Group,Banking,Large,Australia
+COMP0468,Contractor Group,Retail,Enterprise,Singapore
+COMP0469,"Mani, Nadkarni and Pal",E-commerce,Medium,USA
+COMP0470,"Bhagat, Dubey and Krishna",Telecommunications,Medium,India
+COMP0471,"Kade, Sha and Kala",Retail,Medium,India
+COMP0472,Peri LLC,Retail,Large,UK
+COMP0473,Jayaraman-Lata,Insurance,Large,UK
+COMP0474,"Kala, Vasa and Ganesan",Insurance,Enterprise,Singapore
+COMP0475,"Nath, Pant and Srinivas",Consulting,Medium,India
+COMP0476,Jain and Sons,Manufacturing,Medium,Australia
+COMP0477,Dada-Sharma,E-commerce,Medium,Australia
+COMP0478,Agarwal and Sons,E-commerce,Large,Singapore
+COMP0479,"Saxena, Sura and Raja",Consulting,Medium,India
+COMP0480,Mishra-Bawa,Manufacturing,Small,Singapore
+COMP0481,"Wable, Muni and Lad",Banking,Small,Australia
+COMP0482,"Din, Gulati and Rai",Retail,Large,USA
+COMP0483,"Mani, Hayer and Dhillon",Insurance,Enterprise,USA
+COMP0484,"Mukhopadhyay, Andra and Borah",Insurance,Small,India
+COMP0485,"Konda, Dutt and Pau",E-commerce,Small,Singapore
+COMP0486,Baral-Bhatt,Banking,Large,USA
+COMP0487,"Shetty, Bava and Keer",Consulting,Large,UK
+COMP0488,Bhardwaj-Verma,Retail,Large,Singapore
+COMP0489,Chowdhury-Gole,Manufacturing,Large,USA
+COMP0490,"Sood, Raghavan and Chacko",E-commerce,Large,India
+COMP0491,Dhaliwal Ltd,Retail,Medium,Singapore
+COMP0492,Varghese-Naidu,E-commerce,Large,Singapore
+COMP0493,"Bal, Walla and Peri",Manufacturing,Large,Australia
+COMP0494,"Soman, Rajan and Cheema",Telecommunications,Medium,India
+COMP0495,"Sekhon, Gole and Borah",Healthcare,Medium,India
+COMP0496,Trivedi PLC,Education,Medium,Singapore
+COMP0497,Nanda-Chanda,Consulting,Large,USA
+COMP0498,Jaggi Ltd,E-commerce,Large,Australia
+COMP0499,Thaman-Cheema,Consulting,Enterprise,Australia
+COMP0500,Shere Inc,E-commerce,Enterprise,USA
