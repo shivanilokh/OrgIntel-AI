@@ -175,7 +175,6 @@ streamlit run app.py
 
 ## Live Application
 
-## Live Application
 
 **Hosted Application:**  
 https://orgintel-ai-3jpbuqompvx4b4x6fncvna.streamlit.app/
